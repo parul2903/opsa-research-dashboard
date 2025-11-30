@@ -90,15 +90,13 @@ root/
 
 ---
 
-## Installation Instructions
+## How to Run Instructions
 
 ### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 ```
-
-## Installation Instructions
 
 ### 2️⃣ Create & activate virtual environment
 ```bash
