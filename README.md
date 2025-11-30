@@ -98,7 +98,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 ```
 
-## 💻 Installation Instructions
+## Installation Instructions
 
 ### 2️⃣ Create & activate virtual environment
 ```bash
