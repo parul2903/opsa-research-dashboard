@@ -1,4 +1,4 @@
-# 📊 Global Research Analytics Dashboard  
+# Global Research Analytics Dashboard  
 ### *An Interactive Scientometric Analysis Platform (Streamlit)*
 
 This repository contains an advanced **Streamlit-based research analytics dashboard** designed for global scientometric evaluation, benchmarking, and insight generation.  
@@ -6,22 +6,22 @@ Inspired by dashboards used by **Leiden Ranking, OECD, Web of Science, Scopus**,
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🎯 Executive-Level Analytics
+### Executive-Level Analytics
 - Research productivity  
 - Citation influence  
 - Research quality (CNCI)  
 - Excellence indicators (Top 1% & Top 10%)  
 - Collaboration strength  
 
-### 🎨 Professionally Designed UI
+### Professionally Designed UI
 - **Power BI Premium Dark theme**  
 - KPI Cards  
 - 2×2 analytic grid  
 - Clean layout  
 
-### 🧠 Advanced Scientometric KPIs
+### Advanced Scientometric KPIs
 - Citation Efficiency  
 - Excellence Rate (Top 1%)  
 - High-Impact Rate (Top 10%)  
@@ -33,21 +33,18 @@ Inspired by dashboards used by **Leiden Ranking, OECD, Web of Science, Scopus**,
 - Rank Efficiency  
 - Impact per Excellence  
 
-### 🔍 Full Interactive Filtering
+### Full Interactive Filtering
 - Multi-country selection  
 - Multi-year dropdown  
 - Search country  
-- Numeric sliders for every metric  
 
-### 📈 Beautiful Visualizations
+### Beautiful Visualizations
 - Bar charts  
 - Pie charts  
 - Year-trend charts  
-- Bubble charts  
-- Correlation heatmap  
 - Leaderboard tables  
 
-### 🎯 Drillthrough Dashboard
+### Drillthrough Dashboard
 A dedicated country detail page including:
 - KPIs  
 - Trend charts  
@@ -57,7 +54,7 @@ A dedicated country detail page including:
 
 ---
 
-## 🧠 Dataset Summary
+## Dataset Summary
 
 | Column | Description |
 |--------|-------------|
@@ -76,7 +73,7 @@ A dedicated country detail page including:
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 root/
 │── app.py
@@ -93,12 +90,13 @@ root/
 
 ---
 
-## 💻 Installation Instructions
+## Installation Instructions
 
 ### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
+```
 
 ## 💻 Installation Instructions
 
@@ -115,7 +113,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📈 Key Visuals Included
+## Key Visuals Included
 
 - Documents by Country  
 - Citations by Country  
@@ -130,7 +128,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 KPI Definitions
+## KPI Definitions
 
 ### **Citation Efficiency**  
 **Times Cited / Documents**
@@ -158,22 +156,9 @@ streamlit run app.py
 
 ---
 
-## 🔍 Executive Insights
-
-- **Switzerland** and the **United Kingdom** outperform globally in citation quality.  
-- **China (2013–14)** shows strong emerging research influence.  
-- **UK** demonstrates exceptionally high citation efficiency.  
-- **Switzerland** balances both **quantity** and **high research quality**.  
-- Collaboration strength is strongly linked with higher citation impact.  
-- High CNCI combined with high Top 10% output signals **national research excellence**.
-
----
-
-## 🧭 Recommendations
+## Recommendations
 
 - Expand **international collaborations** to boost citation impact.  
-- Increase investment in **high-impact research areas**.  
 - Improve publication pipelines for **top-tier journals**.  
-- Benchmark performance with **Switzerland, UK, and Australia**.  
 - Prioritize **quality over quantity** in national research output.  
 
