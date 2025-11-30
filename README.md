@@ -106,10 +106,14 @@ cd YOUR_REPO
 ```bash
 python -m venv opsa
 opsa\Scripts\activate     # Windows
+```
 
 ```bash
 pip install -r requirements.txt
+```
+```bash
 streamlit run app.py
+```
 
 ## 📈 Key Visuals Included
 
