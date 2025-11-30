@@ -75,18 +75,22 @@ A dedicated country detail page including:
 
 ## Project Structure
 
+```
 root/
-│── app.py
-│── requirements.txt
-│── README.md
-│── data/
-│ └── publications.csv
-│── src/
-│ ├── load_data.py
-│ ├── charts.py
-│ └── eda_functions.py
-│── .gitignore
-
+├── dashboard/
+│ ├── app.py # Main Streamlit application file
+├── requirements.txt # List of all Python dependencies
+├── README.md # Project documentation
+├── .gitignore # Files and folders ignored by Git
+│
+├── data/
+│ └── publications.csv # Dataset containing scientometric indicators
+│
+├── src/
+│ ├── load_data.py # Functions for loading and preprocessing data
+│ ├── charts.py # Visualization and chart-generation functions
+│ └── eda_functions.py # Utilities for analysis, metrics, and KPI calculations
+```
 
 ---
 
